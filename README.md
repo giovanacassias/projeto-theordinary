@@ -3,7 +3,7 @@
 
 - [x] Protótipo desktop - https://www.figma.com/proto/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=24-39&t=CpsCzQUAJynnNm8V-0&scaling=scale-down&page-id=5%3A1214&starting-point-node-id=24%3A39
 
-- [x] **Link do projeto no Figma -** https://www.figma.com/file/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=5%3A1214&mode=design&t=kGtJbEDjk8oip0Hx-1
+- [x] Link do projeto no Figma - https://www.figma.com/file/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=5%3A1214&mode=design&t=kGtJbEDjk8oip0Hx-1
 
 
 
