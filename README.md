@@ -42,9 +42,7 @@ RA3 - Aplicar ferramentas para otimização do processo de desenvolvimento web, 
 - [ ] ID13 - Utiliza as metodologias BEM (Block Element Modifier) ou SMACSS (Scalable and Modular Architecture for CSS) para organizar e estruturar os estilos CSS de forma eficiente, garantindo a reutilização de estilos, a legibilidade do código e a manutenção sustentável do projeto.
 
 
-
-
-
+##
 
 
 RA4 - Aplicar bibliotecas de funções e componentes em JavaScript para aprimorar a interatividade de páginas web.
@@ -56,13 +54,7 @@ RA4 - Aplicar bibliotecas de funções e componentes em JavaScript para aprimora
 - [ ] ID 17 - Utiliza uma biblioteca de componentes prontos, como Material Web Components ou outra de escolha, ou então, algum componente independente (standalone) a fim de oferecer funcionalidades específicas sem a necessidade de estar integrado a uma biblioteca completa.
 
 
-
-
-
-
-
-
-
+##
 
 
 RA5 - Efetuar requisições assíncronas para uma API fake e/ou APIs públicas, permitindo a obtenção e manipulação de dados dinamicamente.
