@@ -5,7 +5,7 @@
 
 - [x] Link do projeto no Figma - https://www.figma.com/file/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=5%3A1214&mode=design&t=kGtJbEDjk8oip0Hx-1
 
-
+##
 
 RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 
