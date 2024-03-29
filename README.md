@@ -1,8 +1,21 @@
+
+- [x] Protótipo mobile - https://www.figma.com/proto/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=108-21829&t=taTGibyeWixu4Zre-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=108%3A21829
+
+- [x] Protótipo desktop - https://www.figma.com/proto/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=24-39&t=CpsCzQUAJynnNm8V-0&scaling=scale-down&page-id=5%3A1214&starting-point-node-id=24%3A39
+
+**Link do projeto no Figma -** https://www.figma.com/file/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=5%3A1214&mode=design&t=kGtJbEDjk8oip0Hx-1
+
+
+
+
+
+
+
 RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 
-- [ ] ID1 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap, Materialize ou Tailwind, que se adapta adequadamente a diferentes tamanhos de tela e dispositivos.
+- [x] ID1 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap, Materialize ou Tailwind, que se adapta adequadamente a diferentes tamanhos de tela e dispositivos.
 - [ ] ID2 - Utiliza técnicas avançadas de CSS, como Flexbox ou Grid Layout, para criar layouts responsivos e fluidos em diferentes resoluções de tela.
-- [ ] ID3 - Utiliza os componentes CSS e JavaScript oferecidos por um Framework CSS, como cards, modais ou carrosséis, aplicando estilos personalizados conforme o necessário.
+- [x] ID3 - Utiliza os componentes CSS e JavaScript oferecidos por um Framework CSS, como cards, modais ou carrosséis, aplicando estilos personalizados conforme o necessário.
 - [ ] ID4 - Implementa um layout fluido e responsivo utilizando unidades relativas (vw, vh, %, em ou rem) em vez de unidades fixas (px) para criar uma experiência de usuário consistente em diferentes dispositivos e tamanhos de tela.
 - [ ] ID5 - Implementa animações em elementos da página, como hover, fadeIn/fadeOut, slideIn/slideOut, utilizando CSS Animations ou bibliotecas de animação, como o Animate.css ou JQuery, para fornecer feedback visual ao usuário e criar uma experiência interativa.
 - [ ] ID6 - Cria transições personalizadas entre diferentes estados da página ou elementos, como mudanças de layout, alterações de cor ou exibição/hide de elementos, usando CSS Transitions ou CSS Animation, para melhorar a usabilidade e a aparência da aplicação.
