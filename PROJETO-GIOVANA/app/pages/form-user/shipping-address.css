@@ -1,0 +1,159 @@
+*{
+    font-family: "Raleway", sans-serif;
+}
+
+body, html{
+    background-color: #FFFFFF;
+    width: 100%;
+}
+
+header{
+    box-shadow: 5px 5px 5px #33333310;
+    height: 6rem;
+    width: 100%;
+}
+
+.header-black{
+    background-color: #333333;
+    height: 2rem;
+    width: 100%;
+}
+
+.header-main{ /*pai*/
+    height: 4rem;
+    display: flex;
+    max-width: 600px;
+    margin: auto;
+   
+}
+
+.header-main-logo{ /*filho*/
+    height: 100%;
+    width: 50%;
+}
+
+.header-main-icons{ /*filho*/
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header-main-icons-items{
+   margin-right: 2rem;
+   display: flex;
+   width: 50%;
+   justify-content: space-between;  
+}
+
+.icons:hover{
+    cursor: pointer;
+    border-bottom: solid #333333;
+    transition: ease-in-out .1s;  
+}
+
+.header-main-logo{ /*filho*/
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header-main-logo-items{
+    margin-left: 1.9rem;
+    display: flex;
+    width: 30%;
+    justify-content: space-between;   
+}
+
+/*FIM HEADER*/
+
+/*INÍCIO MAIN*/
+
+main{
+    height: 83rem;
+    width: 90%;
+    margin: auto;
+}
+
+.main-header{
+    height: 15rem;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    display: flex;
+}
+
+.main-title{
+    height: 15rem;
+    width: 50%;
+}
+
+.main-title > h1, h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+}
+
+.main-title > h1 {
+    font-size: 2rem;
+    margin-top: 65px;
+    margin-left: 30px;
+}
+
+.main-title > h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 38px;
+    margin-left: 30px;
+}
+
+.main-image{
+    margin-right: 30px;
+    height: 15rem;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.main-image-flower{
+    background-image: url(../../../components/flower-sticker.svg);
+    background-size: cover;
+    width: 160px;
+    height: 140px;
+    margin-top: 1.7rem;
+}
+
+.address-form{
+    height: 58rem;
+    margin: auto;
+    max-width: 600px;
+}
+
+.buttons-form{
+    margin-top: 3rem;
+}
+
+.container-back-to-account{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.container-back-to-account:hover{
+    cursor: pointer;
+}
+
+.container-back-to-account > p {
+    margin-bottom: 2px;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
