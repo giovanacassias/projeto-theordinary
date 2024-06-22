@@ -14,6 +14,11 @@ let main = function () {
       }
     });
 
+    //Adiciona máscara aos inputs com JQuery Mask Plugin
+  $(function () {
+    $('#input-socialid').mask('000.000.000-00', { reverse: false });
+  });
+
   function validateNameField() {
     const nameInput = document.getElementById("input-firstname");
 
