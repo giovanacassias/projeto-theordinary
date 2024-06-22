@@ -1,7 +1,7 @@
 
 
 $(function () {
-    $('#menu').load("PROJETO-GIOVANA/app/pages/app/util/header.html");
+    $('#menu').load("../../util/header.html");
 });
   
 /*     window.setTimeout(function () {
