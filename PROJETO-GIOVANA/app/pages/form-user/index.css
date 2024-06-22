@@ -1,0 +1,149 @@
+body, html{
+    background-color: #FFFFFF;
+    width: 100%;
+}
+
+body{
+    height: 1200px;
+}
+
+header{
+    box-shadow: 5px 5px 5px #33333310;
+    height: 6rem;
+    width: 100%;
+}
+
+.header-black{
+    background-color: #333333;
+    height: 2rem;
+    width: 100%;
+}
+
+.header-main{ /*pai*/
+    height: 4rem;
+    display: flex;
+    max-width: 600px;
+    margin: auto;
+   
+}
+
+.header-main-logo{ /*filho*/
+    height: 100%;
+    width: 50%;
+}
+
+.header-main-icons{ /*filho*/
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header-main-icons-items{
+   margin-right: 2rem;
+   display: flex;
+   width: 50%;
+   justify-content: space-between;  
+}
+
+.icons:hover{
+    cursor: pointer;
+    border-bottom: solid #333333;
+    transition: ease-in-out .1s;  
+}
+
+.header-main-logo{ /*filho*/
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header-main-logo-items{
+    margin-left: 1.9rem;
+    display: flex;
+    width: 30%;
+    justify-content: space-between;   
+}
+
+
+.opening-poster{
+    width: 100%;
+    height: 390px;
+    background-image: url(../../images/header-cover5.jpg);
+    background-size: cover;
+    background-position: 40%;
+}
+
+.container-bekind {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 390px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-bekind > button {
+    margin-top: 3rem;
+}
+
+.mid-posters {
+    width: 100%;
+    height: 260px;
+    background-position: 40%;
+}
+
+.mid-posters-1 {
+    background-image: url(../../images/15.webp);
+    background-size: cover;
+}
+
+.cards-products {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 2rem;
+    max-height: 629.33px;
+}
+
+
+.titles{
+    margin-top: 5rem;
+    width: 65%;
+    justify-content: flex-start;
+}
+
+.titles > h3 {
+    font-weight: bold;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.card-text{
+    text-align: justify;
+    height: 90px;
+}
+
+.price-item, .card-link{
+    font-weight: bold;
+}
+
+.description-item {
+    height: 60px;
+    text-align: justify;
+    font-size: 0.8rem;
+}
+
+
+
+
