@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/giovanacassias/projeto-theordinary/issues"
   },
-  "homepage": "https://github.com/giovanacassias/projeto-theordinary#readme"
+  "homepage": "https://github.com/giovanacassias/projeto-theordinary#readme",
+
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jquery-mask-plugin": "1.14.16"
+  }
 }
