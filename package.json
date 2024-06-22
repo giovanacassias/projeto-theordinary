@@ -17,8 +17,8 @@
     "url": "https://github.com/giovanacassias/projeto-theordinary/issues"
   },
   "homepage": "https://github.com/giovanacassias/projeto-theordinary#readme",
-
   "dependencies": {
+    "ajax": "^0.0.4",
     "jquery": "^3.7.1",
     "jquery-mask-plugin": "1.14.16"
   }
