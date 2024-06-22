@@ -2,7 +2,7 @@ export class UserService {
     constructor() {}
   
     // Constante para a chave do armazenamento local
-    LOCAL_STORAGE_KEY = "reports";
+    LOCAL_STORAGE_KEY = "users";
   
     saveLocal(user) {
       // Obtendo USUARIOS do armazenamento local
@@ -18,7 +18,7 @@ export class UserService {
       localStorage.setItem(this.LOCAL_STORAGE_KEY, JSON.stringify(users));
   
       // Retornando os relatórios atualizados
-      return true;u
+      return true;
     }
   }
   

@@ -18,29 +18,27 @@
       href="https://cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/css/alertify.min.css"
     />
 
-    <link rel="stylesheet" href="shipping-address.css" />
+    <link rel="stylesheet" href="../shipping-address/shipping-address.css" />
     
 </head>
 <body>
-    <header>
-        <div class="header-black">
-        </div>
-        <div class="header-main">
-            <div class="header-main-logo">
-                <div class="header-main-logo-items">
-                    <img src="../../../components/toggle-navigation-logo.svg" alt="Hamburguer menu icon">
-                    <img src="../../../components/mini-logo.svg" alt="Mini logo">
-                </div>
-            </div>
-            <div class="header-main-icons">
-                <div class="header-main-icons-items">
-                    <img class="icons" src="../../../components/search-icon-2.svg" alt="Search icon">
-                    <img class="icons" src="../../../components/user-icon-2.svg" alt="User icon">
-                    <img class="icons" src="../../../components/bag-icon-2.svg" alt="Bag icon">
-                </div>
+    <div class="header-black">
+    </div>
+    <div class="header-main">
+        <div class="header-main-logo">
+            <div class="header-main-logo-items">
+                <img src="../../../components/toggle-navigation-logo.svg" alt="Hamburguer menu icon">
+                <a href="../index/index.html"><img src="../../../components/mini-logo.svg" alt="Mini logo"></a>
             </div>
         </div>
-    </header>
+        <div class="header-main-icons">
+            <div class="header-main-icons-items">
+                <img class="icons" src="../../../components/search-icon-2.svg" alt="Search icon">
+                <img class="icons" src="../../../components/user-icon-2.svg" alt="User icon">
+                <img class="icons" src="../../../components/bag-icon-2.svg" alt="Bag icon">
+            </div>
+        </div>
+    </div>
     <main>
         <div class="main-header">
             <div class="main-title">
@@ -167,7 +165,6 @@
                     </div>
                 </form>
             </div>
-            </div>
         </section>
 
         <div class="container-back-to-account">
@@ -175,10 +172,15 @@
             <p>Back to account</p>
         </div>
     </main>
+
+    <script src="../../../node_modules/jquery/dist/jquery.min.js"></script>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
     <script type="module" src="shipping-address.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/alertifyjs@1.14.0/build/alertify.min.js"></script>
+
+    <!-- <script src="../../../app/util/index.js"></script> TENTEI E NÃO DEU CERTO -->
 </body>
 </html>
