@@ -4,6 +4,10 @@
     text-decoration: none;
 }
 
+body, html{
+    width: 100vw;
+}
+
 .container{
     display: flex;
 }
