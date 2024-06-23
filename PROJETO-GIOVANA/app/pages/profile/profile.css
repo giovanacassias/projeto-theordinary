@@ -121,6 +121,7 @@ span{
     display: flex;
     justify-content: center;
     margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .btn-sign-out > button {
@@ -128,6 +129,7 @@ span{
     height: 3rem;
     text-transform: uppercase;
     font-weight: 600;
+    margin-bottom: 3rem;
 }
 
 

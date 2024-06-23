@@ -1,10 +1,5 @@
-html, body, main{
-    background-color: #FFFFFF;
-    width: 100vw;
-}
-
 body{
-    height: 1200px;
+    height: 100vh;
 }
 
 .opening-poster{
