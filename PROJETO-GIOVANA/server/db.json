@@ -13,6 +13,20 @@
         "postalCode": "Brasil",
         "country": "48948-949"
       }
+    },
+    {
+      "id": "85f1",
+      "firstName": "Giovana",
+      "lastName": "Cassias",
+      "socialId": "444.444.444-44",
+      "phoneNumber": "(33) 33333-3333",
+      "address": {
+        "address": "Rua Bonita",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "22222-222"
+      }
     }
   ]
 }
