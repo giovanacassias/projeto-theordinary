@@ -1,25 +1,62 @@
 *{
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 main{
-    width: 100vw;
-    margin: 0;
+    height: 83rem;
+    width: 90%;
+    margin: auto;
+}
+
+.section-header{
+    margin-bottom: 3rem;
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+
+}
+
+.main-header{
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+}
+
+.main-title{
+    width: 50%;
+    height: 80%;
+    
 }
 
 section{
-    margin-bottom: 3rem;
+    margin-bottom: 5rem;
 }
 
 .main-image-donut{
     background-image: url(../../images/donut.svg);
-    width: 180px;
-    height: 200px;
+    width: 160px;
+    height: 180px;
+    background-size: cover;
 }
 
 .main-title{
     margin-top: 1.5rem;
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: .9rem;
+    font-weight: 600;
 }
 
 ul{
