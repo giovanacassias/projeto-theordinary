@@ -27,6 +27,20 @@
         "country": "Brasil",
         "postalCode": "22222-222"
       }
+    },
+    {
+      "id": "ee63",
+      "firstName": "Renata",
+      "lastName": "Costa",
+      "socialId": "777.777.777-77",
+      "phoneNumber": "(88) 88888-8888",
+      "address": {
+        "address": "Rua das Flores",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "99999-999"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 export class UserService {
   constructor() {}
 
-  async getCityFromPostalCode(postalCode) {
+ /*  async getCityFromPostalCode(postalCode) {
     try {
 
       const url = `http://viacep.com.br/ws/${postalCode}/json/`;
@@ -16,12 +16,21 @@ export class UserService {
       }
   }
 
+  async getCityFromPostalCode(postalCode) {
+    try {
 
-
-
-
-
-
+      const url = `http://viacep.com.br/ws/${postalCode}/json/`;
+      const data = await fetch(url);
+      const address = await data.json();
+      console.log(data);
+      return data.localidade;
+      } catch (error) {
+        // Captura e trata erros durante a requisição
+        console.error("Falha ao retornar a cidade:", error);
+        throw error; // Propaga o erro para quem chamou a função
+      }
+  }
+ */
      /*  // Faz uma solicitação à API do ViaCEP usando o Fetch API
       const response = await fetch(
         `http://viacep.com.br/ws/${postalCode}/json/`, {mode: "no-cors"}
