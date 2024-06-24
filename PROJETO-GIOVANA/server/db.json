@@ -41,6 +41,34 @@
         "country": "Brasil",
         "postalCode": "99999-999"
       }
+    },
+    {
+      "id": "7538",
+      "firstName": "Giovana",
+      "lastName": "Cassias",
+      "socialId": "999.999.999-99",
+      "phoneNumber": "(99) 99999-9999",
+      "address": {
+        "address": "Rua das Flores",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "66666-666"
+      }
+    },
+    {
+      "id": "02a4",
+      "firstName": "Lucas",
+      "lastName": "Dziurza",
+      "socialId": "444.444.444-44",
+      "phoneNumber": "(99) 99999-9999",
+      "address": {
+        "address": "Rua das Flores",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "88888-888"
+      }
     }
   ]
 }
