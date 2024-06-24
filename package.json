@@ -4,7 +4,7 @@
   "description": "- [x] Protótipo mobile - https://www.figma.com/proto/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=108-21829&t=taTGibyeWixu4Zre-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=108%3A21829",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "json:server": "json-server --watch PROJETO-GIOVANA/server/db.json"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/giovanacassias/projeto-theordinary/issues"
   },
-  "homepage": "https://github.com/giovanacassias/projeto-theordinary#readme"
+  "homepage": "https://github.com/giovanacassias/projeto-theordinary#readme",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "jquery": "^3.7.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "json-server": "^1.0.0-beta.1"
+  }
 }

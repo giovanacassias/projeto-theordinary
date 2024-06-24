@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "0592",
+      "firstName": "Pedro",
+      "lastName": "Pereira",
+      "socialId": "489.489.489-48",
+      "phoneNumber": "(84) 89489-4848",
+      "address": {
+        "address": "Rua Verde",
+        "city": "Pinhão",
+        "state": "Paraná",
+        "postalCode": "Brasil",
+        "country": "48948-949"
+      }
+    },
+    {
+      "id": "85f1",
+      "firstName": "Giovana",
+      "lastName": "Cassias",
+      "socialId": "444.444.444-44",
+      "phoneNumber": "(33) 33333-3333",
+      "address": {
+        "address": "Rua Bonita",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "22222-222"
+      }
+    },
+    {
+      "id": "ee63",
+      "firstName": "Renata",
+      "lastName": "Costa",
+      "socialId": "777.777.777-77",
+      "phoneNumber": "(88) 88888-8888",
+      "address": {
+        "address": "Rua das Flores",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "99999-999"
+      }
+    },
+    {
+      "id": "7538",
+      "firstName": "Giovana",
+      "lastName": "Cassias",
+      "socialId": "999.999.999-99",
+      "phoneNumber": "(99) 99999-9999",
+      "address": {
+        "address": "Rua das Flores",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "66666-666"
+      }
+    },
+    {
+      "id": "02a4",
+      "firstName": "Lucas",
+      "lastName": "Dziurza",
+      "socialId": "444.444.444-44",
+      "phoneNumber": "(99) 99999-9999",
+      "address": {
+        "address": "Rua das Flores",
+        "city": "Guarapuava",
+        "state": "Paraná",
+        "country": "Brasil",
+        "postalCode": "88888-888"
+      }
+    }
+  ]
+}

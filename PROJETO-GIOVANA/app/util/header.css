@@ -1,0 +1,71 @@
+*{
+    font-family: "Raleway", sans-serif;
+}
+
+body, html{
+    background-color: #FFFFFF;
+    width: 100%
+}
+
+header{
+    box-shadow: 5px 5px 5px #33333310;
+    height: 6rem;
+    width: 100%;
+}
+
+.header-black{
+    background-color: #333333;
+    height: 2rem;
+    width: 100%;
+}
+
+.header-main{ /*pai*/
+    height: 4rem;
+    display: flex;
+    max-width: 600px;
+    margin: auto;
+   
+}
+
+.header-main-logo{ /*filho*/
+    height: 100%;
+    width: 50%;
+}
+
+.header-main-icons{ /*filho*/
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.header-main-icons-items{
+   margin-right: 2rem;
+   display: flex;
+   width: 50%;
+   justify-content: space-between;  
+}
+
+.icons:hover{
+    cursor: pointer;
+    border-bottom: solid #333333;
+    transition: ease-in-out .1s;  
+}
+
+.header-main-logo{ /*filho*/
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header-main-logo-items{
+    margin-left: 1.9rem;
+    display: flex;
+    width: 30%;
+    justify-content: space-between;   
+}
+
+/*FIM HEADER*/

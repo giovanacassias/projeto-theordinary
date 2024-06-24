@@ -4,8 +4,9 @@
     text-decoration: none;
 }
 
-.container{
-    display: flex;
+body, html{
+    width: 100vw;
+    height: 100vh;
 }
 
 h1 {
