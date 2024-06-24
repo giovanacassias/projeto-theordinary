@@ -10,6 +10,17 @@ document.querySelector("#reset-button").addEventListener("click", function () {
   }
 });
 
+/* function getCityByPostalCode() {
+  let postalCode = document.getElementById("input-postalcode").value;
+
+  let userService = new UserService();
+  let city = userService.getCityFromPostalCode(postalCode);
+  //userService.fetchCityFromCep(postalCode);
+
+  document.getElementById("input-city").innerHTML = city.localidade;
+
+} */
+
 function submitHandler() {
   document.getElementById("address-form").onsubmit = function (event) {
     event.preventDefault(); //evitando o reload da página
@@ -81,6 +92,7 @@ function submitHandler() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
+  //getCityByPostalCode();
   submitHandler();
 });
 

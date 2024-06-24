@@ -92,6 +92,18 @@
             <div class="form-floating mb-3">
               <input
                 class="form-control"
+                pattern="(^\d{5}-\d{3}$)"
+                placeholder="00000-00"
+                id="input-postalcode"
+                type="text"
+                required
+              />
+              <label for="input-postalcode">Postal code</label>
+            </div>
+
+            <div class="form-floating mb-3">
+              <input
+                class="form-control"
                 placeholder="City"
                 id="input-city"
                 type="text"
@@ -145,17 +157,7 @@
               <label for="input-phone">Phone number</label>
             </div>
 
-            <div class="form-floating mb-3">
-              <input
-                class="form-control"
-                pattern="(^\d{5}-\d{3}$)"
-                placeholder="00000-00"
-                id="input-postalcode"
-                type="text"
-                required
-              />
-              <label for="input-postalcode">Postal code</label>
-            </div>
+
 
             <div class="mb-3">
               <input id="default-address" type="checkbox" />
