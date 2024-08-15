@@ -1,3 +1,6 @@
+<p> Nesse projeto, minha inspiração foi o e-commerce da The Ordinary. As etapas consistiram nas decisões de design e design system, nas prototipações das telas no Figma e na implementação utilizando o Bootstrap como framework CSS e JSON Server simulando o back-end</p>
+
+
 
 - [x] Protótipo mobile - https://www.figma.com/proto/GgpS3N5iGtZh4sm6s4QvSn/The-Ordinary-Project?type=design&node-id=108-21829&t=taTGibyeWixu4Zre-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=108%3A21829
 
